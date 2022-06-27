@@ -1,5 +1,5 @@
 # distributed-DNN-Aided-time-Synchronization Algorithm (DASA)
-This is the Python repository for the paper "Deep Learning Aided Distributed Clock Synchronization for Wireless Networks"\
+This is the Python repository for the paper ["Deep Learning Aided Distributed Clock Synchronization for Wireless Networks"](http://arxiv.org/abs/2206.12097)\
 The code obtains network clock synchronization for wireless sensor nodes via pulse coupled PLLs at the nodes\
 Please cite our paper, if the code is used for publishing research.
 
